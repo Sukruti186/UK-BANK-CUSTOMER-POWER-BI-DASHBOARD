@@ -64,4 +64,5 @@ Walkthrough of Key Visuals
 ___________________________________________________________________________________________________________________________________________
 
 6. Screenshots / Demos
-   Show what the dashboard looks like. 
+   Show what the dashboard looks like.
+   https://github.com/Sukruti186/UK-BANK-CUSTOMER-POWER-BI-DASHBOARD/blob/main/ScreenShot_of(UK-BANK-CUSTOMERS-REPORT).png
